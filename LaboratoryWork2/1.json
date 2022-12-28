@@ -1,0 +1,52 @@
+{
+    "number": "1",
+    "address": "2",
+    "rooms": [
+        {
+            "number": "3",
+            "persons": [
+                {
+                    "name": "4",
+                    "age": "5",
+                    "well": "6",
+                    "citizenship": "7"
+                },
+                {
+                    "name": "8",
+                    "age": "9",
+                    "well": "10",
+                    "citizenship": "11"
+                },
+                {
+                    "name": "12",
+                    "age": "13",
+                    "well": "14",
+                    "citizenship": "15"
+                }
+            ]
+        },
+        {
+            "number": "16",
+            "persons": [
+                {
+                    "name": "17",
+                    "age": "18",
+                    "well": "19",
+                    "citizenship": "20"
+                },
+                {
+                    "name": "21",
+                    "age": "22",
+                    "well": "23",
+                    "citizenship": "24"
+                },
+                {
+                    "name": "25",
+                    "age": "26",
+                    "well": "27",
+                    "citizenship": "28"
+                }
+            ]
+        }
+    ]
+}
